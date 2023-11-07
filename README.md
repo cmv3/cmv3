@@ -1,8 +1,8 @@
 - 👋 Hola, soy @cmv3, Cristina Vilela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 
-- 📫 How to reach me ...
+- 🌱 Buenos días 
+
+- 📫 Mande un email a crisvilela@gmail.com para contactarme.
 
 <!---
 cmv3/cmv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
